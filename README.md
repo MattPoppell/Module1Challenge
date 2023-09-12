@@ -13,7 +13,7 @@ N/A
 Application should run upon opening of the link in the browser.  
 
 ## Live Link
-https://mattpoppell.github.io/didactic-memory/
+https://mattpoppell.github.io/fictional-invention/
 
 ## Screenshot
 ![image](https://github.com/MattPoppell/didactic-memory/assets/142950050/9cf34e5a-5109-4506-a678-c779ab3c5a24)
